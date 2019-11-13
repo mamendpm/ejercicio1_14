@@ -7,8 +7,7 @@ header {
     font-family: Arial, Helvetica, sans-serif;
 }
 article {
-    color:maroon;
-    font-family: 'Courier New', Courier, monospace;
+       font-family:Arial, Helvetica, sans-serif
 
 }
 p.centro {
@@ -24,4 +23,7 @@ footer {
     text-align-last: right;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+}
+.colorcarta{
+    color:orange
 }
